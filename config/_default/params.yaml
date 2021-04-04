@@ -38,14 +38,22 @@ email: liz.ing-simmons@mpi-muenster.mpg.de
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/liz__is'
-  - icon: github
-    icon_pack: fab
-    name: GitHub
-    link: 'https://github.com/liz-is'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: DM Me
+  #   link: 'https://twitter.com/liz__is'
+  # - icon: github
+  #   icon_pack: fab
+  #   name: GitHub
+  #   link: 'https://github.com/liz-is'
+  # - icon: orcid
+  #   icon_pack: fab
+  #   name: ORCiD
+  #   link: https://orcid.org/0000-0002-0394-2429
+  # - icon: graduation-cap
+  #   icon_pack: fas
+  #   name: Google Scholar
+  #   link: https://scholar.google.com/citations?user=Pd0TnVEAAAAJ&hl=en
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me

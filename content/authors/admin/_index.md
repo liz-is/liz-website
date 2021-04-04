@@ -17,6 +17,8 @@ interests:
 - Gene regulation
 - 3D genome organisation
 - Embryonic development
+- Data analysis
+- Data visualisation
 organizations:
 - name: Max Planck Institute for Molecular Biomedicine
   url: https://vaquerizaslab.org/
@@ -45,4 +47,4 @@ title: Liz Ing-Simmons
 
 Hi, I'm Liz! I'm a postdoctoral researcher in the [Regulatory Genomics](https://vaquerizaslab.org/) group at the [MPI for Molecular Biomedicine](https://www.mpi-muenster.mpg.de/2377/en) in Münster, Germany (soon to be at the [MRC London Institute of Medical Sciences](https://lms.mrc.ac.uk/)). My research is focused on understanding the role that 3D organisation of chromatin plays in regulating gene expression. I use R and Python to analyse genomic datasets to better understand how gene expression is controlled during embryonic development. I also sometimes produce these datasets in the lab. My primary model organism is *Drosophila melanogaster*, but I frequently collaborate with researchers working on other organisms, including mouse and human. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CVLizIng-Simmons.pdf" "newtab" >}}CV{{< /staticref >}}.
