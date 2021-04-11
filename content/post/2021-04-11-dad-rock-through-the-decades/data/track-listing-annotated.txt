@@ -1,0 +1,60 @@
+Song	Year	Genre
+"Queen - ""We Will Rock You"""	1977	Arena rock
+"The Rolling Stones - ""Start Me Up"""	1981	Hard rock
+"U2 - ""With or Without You"""	1987	Rock
+"Bon Jovi - ""Livin' on a Prayer"""	1986	"Glam metal, arena rock"
+"Imagine Dragons - ""Radioactive"""	2012	"Electronic rock, alternative rock"
+"The Killers - ""Mr. Brightside"""	2003	"Alternative rock, new wave, synth-pop, pop rock, power pop, synth-rock"
+"Stereophonics - ""Dakota"""	2005	"Alternative rock, power pop"
+"Hozier - ""Take Me to Church"""	2013	"Indie rock, soul, blues"
+"Nickelback - ""Rockstar"""	2006	Pop rock
+"Lynyrd Skynyrd - ""Sweet Home Alabama"""	1974	"Country rock, Southern rock, blues rock"
+"Boston - ""More Than a Feeling"""	1976	Hard rock
+"Blue Oyster Cult - ""(Don't Fear) The Reaper"""	1976	"Hard rock, psychedelic rock, soft rock"
+"Meat Loaf - ""Bat Out of Hell"""	1979	"Hard rock, progressive rock, heavy metal"
+"Motorhead - ""Ace of Spades"""	1980	Speed metal
+"The Clash - ""Should I Stay or Should I Go"""	1982	"Punk rock, arena rock"
+"The Jam - ""Town Called Malice"""	1982	"Rock, new wave, soul"
+"Spin Doctors - ""Two Princes"""	1993	Alternative rock
+"Scouting for Girls - ""She's So Lovely"""	2007	Pop rock
+"The Fratellis - ""Chelsea Dagger"""	2006	"Garage rock revival, indie rock, alternative rock"
+"Primal Scream - ""Rocks"""	1994	"Alternative rock, blues rock"
+"Toto - ""Africa"""	1982	soft rock
+"Simple Minds - ""Don't You (Forget About Me)"""	1985	"New wave, pop rock, synth-pop"
+"The La's - ""There She Goes"""	1988	Jangle pop
+"The Stone Roses - ""I Wanna Be Adored"""	1989	Indie rock
+"Keane - ""Everybody's Changing"""	2003	pop rock
+"The Fray - ""How to Save a Life"""	2005	pop rock
+"James Bay - ""Hold Back the River"""	2014	"Indie rock, folk rock"
+"The Lumineers - ""Ho Hey"""	2011	Indie folk
+"Free - ""All Right Now"""	1970	"Hard rock, blues rock"
+"Deep Purple - ""Smoke on the Water"""	1971	"Hard rock, heavy metal"
+"Iggy and the Stooges - ""Search and Destroy"""	1973	"Garage rock, glam rock, proto-punk"
+"Lenny Kravitz - ""Are You Gonna Go My Way"""	1993	"Hard rock, funk rock"
+"RUN-DMC feat. Aerosmith - ""Walk This Way"""	1986	"Rap rock, hard rock"
+"Beastie Boys - ""(You Gotta) Fight for Your Right (To Party)"""	1987	"Rap rock, hard rock"
+"Fountains of Wayne - ""Stacy's Mom"""	2003	"Power pop, new wave, pop rock, pop punk"
+"Feeder - ""Buck Rogers"""	2001	"Alternative rock, post-grunge, power pop"
+"Blink-182 - ""All the Small Things"""	2000	"Pop punk, power pop, alternative rock"
+"Kiss - ""Crazy Crazy Nights"""	1987	Glam metal
+"Robert Palmer - ""Addicted to Love"""	1986	"Rock, pop, blue-eyed soul, hard rock, blues rock"
+"Europe - ""The Final Countdown"""	1986	"Glam metal, hard rock"
+"Wheatus - ""Teenage Dirtbag"""	2000	pop rock
+"MGMT - ""Kids"""	2008	"Indie electronic, synth-pop, synth rock"
+"Sum 41 - ""In Too Deep"""	2001	pop punk
+"Razorlight - ""America"""	2006	Indie rock
+"Avril Lavigne - ""Complicated"""	2002	"pop rock, rock"
+"Natalie Imbruglia - ""Torn"""	1997	"Pop rock, alternative pop"
+"The 1975 - ""The Sound"""	2016	"House, pop, disco, synth-pop"
+"Bastille - ""Pompeii"""	2013	"Indie rock, synth-pop"
+"The Kooks - ""Naive"""	2006	indie rock
+"Deep Blue Somethings - ""Breakfast at Tiffany's"""	1995	"Alternative rock, pop rock, jangle pop"
+"Bachman-Turner Overdrive - ""You Ain't Seen Nothing Yet"""	1974	Rock
+"Eric Clapton - ""I Shot the Sheriff"""	1974	"Soft rock, reggae"
+"REO Speedwagon - ""Can't Fight This Feeling"""	1984	soft rock
+"Rod Stewart - ""Maggie May"""	1970	folk rock
+"ZZ Top - ""Sharp Dressed Man"""	1983	"synth-pop, blues rock"
+"Steppenwolf - ""Born to Be Wild"""	1968	"Hard rock, proto-metal"
+"Whitesnake - ""Here I Go Again '87"""	1987	Glam metal
+"Survivor - ""Eye of the Tiger"""	1982	Hard rock
+"Roxy Music - ""Love Is the Drug"""	1975	"Progressive pop, funk, glam rock"
